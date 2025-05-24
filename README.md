@@ -50,4 +50,4 @@ Aspiring API Writer with a background in computer science and 5 years of client-
 
 I'm transitioning into API documentation, focusing on tools like Postman, Swagger/OpenAPI, and Markdown to create clear, structured, and developer-friendly REST API docs. Currently building a portfolio of real-world projects and seeking entry-level API writing roles in product-based companies.
 
-**Let's connect [LinkedIn](linkedin.com/in/prasanna-rengaraju-242714231) | [Email](r.prasanna1998@gmail.com)
+**Let's connect [LinkedIn](linkedin.com/in/prasanna-rengaraju-242714231) | [Email](r.prasanna1998@gmail.com)**
